@@ -1,0 +1,30 @@
+{
+	"numberOfTables": "",
+	"maxExceptions": 0,
+	"exceptionCount": 0,
+	"tables":
+	[
+		{
+			"databaseType": "",
+			"databaseName": "",
+			"databaseUser": "",
+			"databasePass": "",
+			"tablename": "",
+			"insertCount": 0,
+			"numberCSVfiles": "",
+			"csvName": [""],
+			"fieldNames": []
+		},
+		{
+			"databaseType": "",
+			"databaseName": "",
+			"databaseUser": "",
+			"databasePass": "",
+			"tablename": "",
+			"insertCount": 0,
+			"numberCSVfiles": "",
+			"csvName": [""],
+			"fieldNames": []			
+		}
+	]
+}

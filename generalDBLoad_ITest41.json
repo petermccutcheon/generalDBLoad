@@ -1,0 +1,19 @@
+{
+	"numberOfTables": 1,
+	"maxExceptions": 10,
+	"exceptionCount": 0,
+	"tables":
+	[
+		{
+			"databaseType": "SQLite",
+			"databaseName": "cars.db",
+			"databaseUser": "",
+			"databasePass": "",
+			"tablename": "Fastcars",
+			"insertCount": 0,
+			"numberCSVfiles": 1,
+			"csvName": ["carload1.csv"],
+			"fieldNames": []
+		}
+	]
+}

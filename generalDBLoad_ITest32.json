@@ -1,0 +1,19 @@
+{
+	"numberOfTables": 1,
+	"maxExceptions": 10,
+	"exceptionCount": 0,
+	"tables":
+	[
+		{
+			"databaseType": "MySQL",
+			"databaseName": "Flightdata",
+			"databaseUser": "python",
+			"databasePass": "python",
+			"tablename": "airplane",
+			"insertCount": 0,
+			"numberCSVfiles": 3,
+			"csvName": ["airplaneload1.csv", "airplaneload2.csv", "airplaneload3.csv"],
+			"fieldNames": []
+		}
+	]
+}
